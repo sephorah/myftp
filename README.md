@@ -1,4 +1,4 @@
-# MyTeams
+# MyFTP
 
 A FTP server in C.
 
